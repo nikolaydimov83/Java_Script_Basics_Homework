@@ -1,0 +1,30 @@
+﻿body {
+}
+*{
+    margin:0;
+    padding:0;
+}
+
+.wrapper{
+    width:318px;
+    height:318px !important;
+    border:none;
+    display:table;
+    border:3px solid red;
+}
+
+.inner{
+    border:3px solid red;
+    width:80px;
+    height:80px;
+    padding:10px;
+    font-size:48px;
+    display:inline-block;
+    margin:0 auto;
+    vertical-align:middle;
+    border-collapse:collapse;
+    text-align:center;
+    line-height:70px;
+    border-collapse:collapse;
+   
+}
